@@ -377,5 +377,14 @@
       "The 'sleep-line' branch should start from the second commit (with message 'Describe location')."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787730464.513401,
+    "completed_at": 1787730468.456654,
+    "comments": [
+      "The 'sleep-line' branch is missing."
+    ],
+    "status": "Incomplete"
   }
 ]
